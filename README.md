@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href=""><img src="https://discord.c99.nl/widget/theme-4/360783331962650624.png" alt="rien"/></a>
+
+
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
   
 <a href=""><img src="https://img.shields.io/github/stars/flav28?color=%23fec319&style=for-the-badge" alt="rien"/></a>
