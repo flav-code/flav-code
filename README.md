@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
   
-<a href=""><img src="https://img.shields.io/github/stars/flav28?style=for-the-badge" alt="rien"/></a>
+<a href=""><img src="https://img.shields.io/github/stars/flav28?color=%23fec319&style=for-the-badge" alt="rien"/></a>
 <a href=""><img src="https://img.shields.io/github/followers/flav28?color=947cea&style=for-the-badge" alt="rien"/></a>
   
 
