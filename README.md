@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685.svg?style=flat&label=Join%20Community&color=7289DA alt="Join Community Badge"/></a>
   
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FLAV28&show_icons=true&theme=gotham" alt="flav#2200" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FLAV28&show_icons=true&theme=gotham" alt="flav#2200" />
 
 <!--
 **flav28/flav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
