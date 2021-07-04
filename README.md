@@ -10,8 +10,7 @@
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=flav28&show_icons=true&theme=gotham" alt="flav#2200" />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flav28&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+<img src="http://github-readme-streak-stats.herokuapp.com?user=flav28&theme=tokyonight&hide_border=true" alt="flav#2200" />
 <!--
 **flav28/flav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
