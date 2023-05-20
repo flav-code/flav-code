@@ -5,11 +5,11 @@
 
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
   
-<a href=""><img src="https://img.shields.io/github/stars/flav28?color=%23fec319&style=for-the-badge" alt="rien"/></a>
-<a href=""><img src="https://img.shields.io/github/followers/flav28?color=947cea&style=for-the-badge" alt="rien"/></a>
+<a href=""><img src="https://img.shields.io/github/stars/flav-code?color=%23fec319&style=for-the-badge" alt="rien"/></a>
+<a href=""><img src="https://img.shields.io/github/followers/flav-code?color=947cea&style=for-the-badge" alt="rien"/></a>
   
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=flav28&theme=tokyonight&hide_border=true" alt="flav#2200" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=flav-code&theme=tokyonight&hide_border=true" alt="flav#2200" />
 <!--
 **flav28/flav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
