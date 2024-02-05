@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-<a href=""><img src="https://discord.c99.nl/widget/theme-4/360783331962650624.png" alt="rien"/></a>
 
 <a href=""><img src="https://komarev.com/ghpvc/?username=flav-code&style=for-the-badge" alt="rien"/></a>
 
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
-  
+
 <a href=""><img src="https://img.shields.io/github/stars/flav-code?color=%23fec319&style=for-the-badge" alt="rien"/></a>
 <a href=""><img src="https://img.shields.io/github/followers/flav-code?color=947cea&style=for-the-badge" alt="rien"/></a>
-  
+
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=flav-code&theme=tokyonight&hide_border=true" alt="flav#2200" />
 <!--
